@@ -4,7 +4,7 @@ Analisador de disco para Windows 11: mostra para onde o espaço foi, acha duplic
 
 ## Instalar
 
-Em `release/`:
+Baixe na aba [Releases](https://github.com/Henriquehoff4/diskhunter/releases). Para gerar os arquivos você mesmo, rode `npm run dist` e eles ficam em `release/`.
 
 - `DiskHunter Setup 1.0.0.exe`: instalador.
 - `DiskHunter-1.0.0-portatil.exe`: não precisa de instalação.
