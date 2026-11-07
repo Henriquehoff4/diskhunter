@@ -2,6 +2,16 @@
 
 Analisador de disco para Windows 11: mostra para onde o espaço foi, acha duplicatas confirmadas por conteúdo, caches, instaladores esquecidos e modelos de IA, compara análises ao longo do tempo e ajuda a liberar espaço sem apagar nada sem a sua confirmação.
 
+## Capturas de tela
+
+![Visão geral do disco, com o mapa e a limpeza recomendada](docs/screenshots/visao-geral.png)
+
+![Mapa do disco em treemap](docs/screenshots/mapa-do-disco.png)
+
+![Tela de limpeza, com o nível de risco de cada item](docs/screenshots/limpeza.png)
+
+Imagens feitas com dados de exemplo.
+
 ## Instalar
 
 Baixe na aba [Releases](https://github.com/Henriquehoff4/diskhunter/releases). Para gerar os arquivos você mesmo, rode `npm run dist` e eles ficam em `release/`.
